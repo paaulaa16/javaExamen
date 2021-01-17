@@ -1,5 +1,6 @@
 # javaExamen
 Como subir los archivos locales a git:
+
 git init
 
 git add .
